@@ -175,9 +175,9 @@ If you plan to publish or redistribute this code, you may wish to add a formal o
 
 If you use this repository as part of your research or technical blog, you may consider adding:
 
-- your name
-- your affiliation
-- your homepage
-- your email address
+- Shicheng Hu
+- University of Chinese Academy of Science
+- https://github.com/ShiCheHU
+- hushch2018@163.com
 
 for easier academic or professional reference.
